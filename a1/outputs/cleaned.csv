@@ -1,0 +1,851 @@
+Province,Gender,Age,Income,BMI,PhysicalActivity,Smoking,SelfRatedHealth,StressLevel,BMI_Category,IncomeBracket
+Ontario,Female,59,80572.0,25.7,3.8,Yes,Good,6,Overweight,80-110k
+New Brunswick,Male,38,125739.0,24.2,3.4,No,Good,9,Normal,>110k
+Nova Scotia,Male,31,55997.0,35.7,3.5,No,Excellent,5,Obese,50-80k
+Saskatchewan,Male,30,75947.0,28.3,3.9,No,Excellent,10,Overweight,50-80k
+Saskatchewan,Female,79,113966.0,31.2,1.6,No,Fair,6,Obese,>110k
+Newfoundland and Labrador,Female,24,101828.0,27.8,4.5,Yes,Good,5,Overweight,80-110k
+Ontario,Female,68,64076.0,24.3,0.9,Yes,Very Good,3,Normal,50-80k
+Nova Scotia,Female,72,82479.0,27.3,3.6,No,Very Good,8,Overweight,80-110k
+British Columbia,Female,19,78040.0,34.4,2.9,Yes,Good,4,Obese,50-80k
+Ontario,Male,55,83639.0,30.0,4.1,No,Very Good,4,Obese,80-110k
+Manitoba,Male,54,64026.0,18.6,3.7,No,Fair,8,Normal,50-80k
+Prince Edward Island,Male,40,76214.0,27.3,3.0,No,Good,8,Overweight,50-80k
+New Brunswick,Female,60,46039.0,36.1,0.4,Yes,Very Good,8,Obese,<50k
+New Brunswick,Female,43,80702.0,26.1,0.5,No,Very Good,4,Overweight,80-110k
+New Brunswick,Male,45,87000.0,18.2,2.3,No,Very Good,5,Underweight,80-110k
+New Brunswick,Male,45,73452.0,36.7,3.5,Yes,Poor,5,Obese,50-80k
+Manitoba,Male,68,45699.0,30.6,2.3,No,Fair,7,Obese,<50k
+Quebec,Female,57,97771.0,26.8,4.8,No,Poor,8,Overweight,80-110k
+Newfoundland and Labrador,Male,41,85291.0,25.3,2.9,Yes,Fair,6,Overweight,80-110k
+Saskatchewan,Female,76,63480.0,32.6,1.6,No,Poor,9,Obese,50-80k
+Manitoba,Female,68,72388.0,24.5,2.9,No,Good,7,Normal,50-80k
+Alberta,Female,76,47987.0,32.9,4.0,Yes,Good,5,Obese,<50k
+Quebec,Male,64,57492.0,29.9,4.1,Yes,Very Good,5,Overweight,50-80k
+Prince Edward Island,Male,42,67244.0,28.4,7.3,Yes,Good,9,Overweight,50-80k
+New Brunswick,Male,66,102568.0,27.9,2.2,Yes,Poor,9,Overweight,80-110k
+Nova Scotia,Male,38,65210.0,26.3,3.4,No,Very Good,8,Overweight,50-80k
+Saskatchewan,Male,35,90804.0,32.4,4.4,No,Poor,5,Obese,80-110k
+Newfoundland and Labrador,Female,46,67234.0,22.9,3.5,Yes,Excellent,5,Normal,50-80k
+Manitoba,Male,79,82959.0,19.1,2.5,Yes,Poor,6,Normal,80-110k
+Saskatchewan,Male,53,75172.0,30.3,0.4,Yes,Good,9,Obese,50-80k
+Saskatchewan,Male,42,95461.0,30.4,2.5,No,Excellent,6,Obese,80-110k
+British Columbia,Female,47,67304.0,29.6,1.4,Yes,Very Good,6,Overweight,50-80k
+Ontario,Female,36,46549.0,29.2,0.0,Yes,Very Good,5,Overweight,<50k
+Manitoba,Female,59,50361.0,25.6,1.9,Yes,Very Good,5,Overweight,50-80k
+Newfoundland and Labrador,Male,40,67362.0,31.1,1.4,No,Fair,5,Obese,50-80k
+Ontario,Male,52,53019.0,27.0,4.7,No,Very Good,5,Overweight,50-80k
+Newfoundland and Labrador,Male,41,86204.0,24.8,4.7,No,Excellent,5,Normal,80-110k
+Newfoundland and Labrador,Female,38,68685.0,25.6,1.7,No,Excellent,5,Overweight,50-80k
+British Columbia,Female,79,125492.0,37.3,3.0,No,Good,5,Obese,>110k
+Nova Scotia,Male,39,43246.0,18.5,0.0,No,Good,3,Normal,<50k
+Quebec,Female,22,82073.0,29.7,2.5,No,Very Good,7,Overweight,80-110k
+New Brunswick,Male,41,55441.0,18.8,4.3,Yes,Good,8,Normal,50-80k
+New Brunswick,Female,51,68132.0,26.7,5.1,No,Good,9,Overweight,50-80k
+Alberta,Male,23,80828.0,25.0,2.1,Yes,Fair,6,Overweight,80-110k
+Ontario,Female,37,31493.0,16.8,5.6,No,Fair,6,Underweight,<50k
+Prince Edward Island,Female,28,82737.0,29.1,0.5,Yes,Good,5,Overweight,80-110k
+Saskatchewan,Female,49,116058.0,25.3,1.0,No,Fair,6,Overweight,>110k
+Newfoundland and Labrador,Male,63,68931.0,16.7,4.9,No,Poor,6,Underweight,50-80k
+Nova Scotia,Male,79,83196.0,31.4,6.8,No,Poor,5,Obese,80-110k
+New Brunswick,Female,42,98498.0,34.4,4.5,No,Excellent,5,Obese,80-110k
+New Brunswick,Female,72,74721.0,34.7,3.4,No,Poor,6,Obese,50-80k
+Quebec,Female,31,66381.0,29.0,0.0,No,Poor,5,Overweight,50-80k
+Alberta,Male,67,32485.0,27.4,0.0,No,Good,5,Overweight,<50k
+Saskatchewan,Male,53,90820.0,33.8,3.8,No,Fair,9,Obese,80-110k
+Saskatchewan,Female,65,75737.0,60.0,2.8,No,Excellent,10,Obese,50-80k
+Ontario,Female,65,78130.0,32.9,1.3,No,Excellent,3,Obese,50-80k
+Manitoba,Male,51,80532.0,22.5,3.6,No,Good,3,Normal,80-110k
+Quebec,Male,34,66326.0,28.2,3.7,Yes,Good,3,Overweight,50-80k
+New Brunswick,Female,51,67431.0,29.4,5.4,No,Good,5,Overweight,50-80k
+Nova Scotia,Male,70,90126.0,27.3,3.8,No,Poor,7,Overweight,80-110k
+Prince Edward Island,Female,79,51232.0,27.3,6.0,Yes,Good,6,Overweight,50-80k
+New Brunswick,Female,76,98946.0,38.6,3.5,No,Fair,6,Obese,80-110k
+Alberta,Male,29,50046.0,30.4,3.3,No,Fair,6,Obese,50-80k
+Prince Edward Island,Male,55,64746.0,34.6,5.6,Yes,Good,4,Obese,50-80k
+Saskatchewan,Male,24,116459.0,28.1,1.5,No,Fair,5,Overweight,>110k
+Alberta,Female,60,100547.0,26.8,9.1,Yes,Fair,5,Overweight,80-110k
+Prince Edward Island,Male,80,79952.0,29.1,4.3,No,Good,2,Overweight,50-80k
+Alberta,Male,21,59189.0,23.1,4.3,Yes,Good,3,Normal,50-80k
+Ontario,Female,59,67415.0,22.4,4.6,No,Fair,3,Normal,50-80k
+Saskatchewan,Female,77,79466.0,33.5,7.3,No,Poor,7,Obese,50-80k
+New Brunswick,Male,71,78750.0,34.1,5.1,No,Fair,6,Obese,50-80k
+Quebec,Female,42,76183.0,22.2,0.3,Yes,Fair,6,Normal,50-80k
+Saskatchewan,Male,24,77383.0,32.0,6.3,No,Very Good,1,Obese,50-80k
+Quebec,Female,76,73712.0,26.8,2.8,No,Excellent,2,Overweight,50-80k
+Nova Scotia,Female,76,49160.0,28.9,3.5,No,Good,7,Overweight,<50k
+Saskatchewan,Female,54,67670.0,29.5,0.9,No,Good,1,Overweight,50-80k
+Alberta,Male,79,96292.0,32.2,4.6,No,Very Good,8,Obese,80-110k
+British Columbia,Female,18,50633.0,27.6,2.2,No,Very Good,1,Overweight,50-80k
+Manitoba,Female,56,74209.0,34.3,3.7,No,Fair,7,Obese,50-80k
+Nova Scotia,Male,20,61605.0,28.7,2.9,Yes,Fair,3,Overweight,50-80k
+Prince Edward Island,Female,76,80227.0,30.3,7.4,No,Good,7,Obese,80-110k
+Saskatchewan,Female,60,70227.0,23.0,7.5,No,Good,10,Normal,50-80k
+Quebec,Female,75,107548.0,27.3,3.6,No,Fair,1,Overweight,80-110k
+Newfoundland and Labrador,Female,53,88132.0,29.5,3.6,No,Good,7,Overweight,80-110k
+Nova Scotia,Male,23,51764.0,30.8,2.8,No,Good,1,Obese,50-80k
+New Brunswick,Male,19,91425.0,19.2,5.7,No,Good,6,Normal,80-110k
+Ontario,Male,39,62507.0,23.1,2.8,No,Good,5,Normal,50-80k
+Alberta,Male,64,66460.0,33.4,2.7,No,Very Good,5,Obese,50-80k
+New Brunswick,Female,27,84276.0,28.6,5.5,No,Good,3,Overweight,80-110k
+Newfoundland and Labrador,Female,71,68165.0,17.6,2.4,No,Fair,7,Underweight,50-80k
+Saskatchewan,Male,33,95857.0,32.4,3.4,Yes,Fair,2,Obese,80-110k
+Newfoundland and Labrador,Female,49,62510.0,24.5,0.3,No,Very Good,8,Normal,50-80k
+Newfoundland and Labrador,Female,30,65621.0,34.3,4.9,No,Good,4,Obese,50-80k
+Alberta,Male,47,64873.0,26.8,7.4,No,Poor,2,Overweight,50-80k
+Newfoundland and Labrador,Female,46,66687.0,28.2,4.9,Yes,Good,9,Overweight,50-80k
+British Columbia,Male,18,99984.0,33.1,6.4,No,Very Good,5,Obese,80-110k
+British Columbia,Female,53,90576.0,22.7,1.8,No,Very Good,9,Normal,80-110k
+Nova Scotia,Male,67,112199.0,22.2,4.0,No,Excellent,8,Normal,>110k
+Nova Scotia,Male,76,123353.0,26.2,1.6,No,Very Good,4,Overweight,>110k
+Quebec,Male,38,57386.0,31.3,3.0,No,Good,5,Obese,50-80k
+Newfoundland and Labrador,Female,73,79408.0,27.3,5.0,No,Good,5,Overweight,50-80k
+Quebec,Female,73,78130.0,18.9,3.7,Yes,Fair,8,Normal,50-80k
+Newfoundland and Labrador,Female,80,62448.0,31.3,0.7,No,Very Good,6,Obese,50-80k
+Ontario,Female,41,65398.0,24.2,0.9,Yes,Very Good,6,Normal,50-80k
+New Brunswick,Female,71,56857.0,25.2,0.7,No,Fair,5,Overweight,50-80k
+New Brunswick,Female,53,56962.0,17.9,4.5,Yes,Excellent,5,Underweight,50-80k
+New Brunswick,Female,21,75114.0,23.8,7.6,No,Good,8,Normal,50-80k
+Nova Scotia,Female,35,53666.0,27.2,6.2,No,Poor,5,Overweight,50-80k
+Saskatchewan,Male,60,94843.0,31.9,0.0,No,Good,4,Obese,80-110k
+New Brunswick,Male,28,59645.0,23.3,6.3,Yes,Excellent,4,Normal,50-80k
+British Columbia,Male,45,134191.0,35.5,5.4,Yes,Excellent,4,Obese,>110k
+New Brunswick,Male,66,68972.0,23.8,0.4,No,Good,2,Normal,50-80k
+Manitoba,Male,27,79440.0,23.8,2.9,No,Excellent,4,Normal,50-80k
+Saskatchewan,Male,49,52093.0,34.9,5.7,No,Excellent,8,Obese,50-80k
+Manitoba,Female,31,112122.0,28.3,4.6,No,Very Good,5,Overweight,>110k
+Manitoba,Female,51,100390.0,24.4,0.9,No,Excellent,7,Normal,80-110k
+Ontario,Male,33,83938.0,26.4,4.7,No,Good,1,Overweight,80-110k
+Quebec,Female,78,51064.0,34.0,0.0,No,Very Good,6,Obese,50-80k
+British Columbia,Female,22,82213.0,34.5,3.1,No,Very Good,5,Obese,80-110k
+Quebec,Male,78,55571.0,23.1,5.8,Yes,Very Good,4,Normal,50-80k
+Saskatchewan,Female,67,107247.0,27.0,3.5,No,Fair,6,Overweight,80-110k
+Nova Scotia,Female,71,94184.0,27.7,2.5,Yes,Very Good,4,Overweight,80-110k
+Nova Scotia,Male,71,79909.0,22.3,5.3,No,Excellent,1,Normal,50-80k
+Saskatchewan,Female,29,29272.0,26.9,5.4,No,Good,7,Overweight,<50k
+Newfoundland and Labrador,Female,76,58332.0,27.2,6.1,Yes,Excellent,6,Overweight,50-80k
+Manitoba,Female,55,91755.0,32.9,5.2,No,Good,5,Obese,80-110k
+Ontario,Male,78,102258.0,33.2,3.5,No,Fair,3,Obese,80-110k
+New Brunswick,Male,73,100183.0,25.6,5.0,No,Fair,2,Overweight,80-110k
+Manitoba,Male,54,46160.0,26.1,4.0,Yes,Very Good,6,Overweight,<50k
+Nova Scotia,Male,41,84031.0,30.5,3.7,No,Good,9,Obese,80-110k
+Manitoba,Male,25,98310.0,24.3,3.0,No,Good,6,Normal,80-110k
+Manitoba,Female,24,44833.0,30.1,1.1,No,Very Good,2,Obese,<50k
+Ontario,Female,42,77842.0,26.8,1.6,Yes,Good,6,Overweight,50-80k
+Manitoba,Male,69,83477.0,22.4,2.9,No,Good,5,Normal,80-110k
+New Brunswick,Female,49,71985.0,22.4,4.0,No,Excellent,7,Normal,50-80k
+Alberta,Male,48,40957.0,34.4,6.4,No,Very Good,6,Obese,<50k
+Nova Scotia,Male,33,71486.0,26.4,3.4,Yes,Very Good,1,Overweight,50-80k
+Ontario,Male,53,71454.0,35.4,5.5,No,Very Good,6,Obese,50-80k
+Alberta,Male,58,75039.0,24.6,5.7,No,Excellent,3,Normal,50-80k
+Saskatchewan,Male,79,66731.0,28.7,3.0,No,Fair,2,Overweight,50-80k
+Prince Edward Island,Male,63,69140.0,39.2,4.7,No,Good,5,Obese,50-80k
+British Columbia,Female,56,77206.0,21.9,3.0,Yes,Fair,6,Normal,50-80k
+British Columbia,Male,75,86849.0,17.7,6.1,No,Good,2,Underweight,80-110k
+Saskatchewan,Female,44,71911.0,33.6,4.8,No,Very Good,7,Obese,50-80k
+Prince Edward Island,Male,76,69807.0,23.1,1.1,No,Very Good,7,Normal,50-80k
+Newfoundland and Labrador,Female,41,79847.0,27.1,3.8,No,Good,5,Overweight,50-80k
+Ontario,Male,26,39582.0,24.3,6.8,No,Poor,3,Normal,<50k
+British Columbia,Female,44,87541.0,28.5,3.1,No,Very Good,3,Overweight,80-110k
+Newfoundland and Labrador,Female,26,77989.0,22.4,4.4,Yes,Excellent,7,Normal,50-80k
+Ontario,Male,25,78794.0,26.3,4.6,No,Good,2,Overweight,50-80k
+Newfoundland and Labrador,Female,73,97215.0,29.4,1.4,Yes,Fair,7,Overweight,80-110k
+British Columbia,Male,68,38944.0,22.2,4.5,Yes,Good,5,Normal,<50k
+Prince Edward Island,Male,31,38523.0,23.7,0.7,No,Good,5,Normal,<50k
+British Columbia,Male,70,83476.0,25.5,2.2,No,Good,2,Overweight,80-110k
+Saskatchewan,Female,22,77858.0,20.1,5.7,No,Good,5,Normal,50-80k
+Nova Scotia,Female,35,81404.0,25.1,4.2,No,Very Good,6,Overweight,80-110k
+Quebec,Male,62,68757.0,27.8,2.9,Yes,Good,2,Overweight,50-80k
+Manitoba,Male,37,91287.0,25.2,4.4,Yes,Good,6,Overweight,80-110k
+Manitoba,Female,64,96653.0,25.8,3.4,Yes,Poor,5,Overweight,80-110k
+New Brunswick,Male,73,87680.0,27.1,3.5,No,Excellent,4,Overweight,80-110k
+Prince Edward Island,Male,22,72783.0,23.9,4.8,No,Good,7,Normal,50-80k
+Nova Scotia,Male,19,35846.0,30.7,2.0,No,Good,1,Obese,<50k
+Saskatchewan,Female,77,93385.0,34.4,3.6,No,Fair,6,Obese,80-110k
+Saskatchewan,Male,50,102435.0,24.9,2.9,No,Very Good,9,Normal,80-110k
+Saskatchewan,Male,49,90891.0,29.6,0.3,No,Excellent,8,Overweight,80-110k
+Newfoundland and Labrador,Female,47,60407.0,26.0,1.7,Yes,Poor,5,Overweight,50-80k
+Alberta,Female,45,91476.0,29.0,6.6,No,Fair,5,Overweight,80-110k
+Quebec,Female,61,95211.0,35.0,4.3,No,Fair,4,Obese,80-110k
+Alberta,Male,54,109176.0,29.7,0.9,No,Very Good,5,Overweight,80-110k
+Ontario,Male,28,60478.0,18.3,0.4,No,Excellent,6,Underweight,50-80k
+Quebec,Female,57,73471.0,29.5,3.3,Yes,Good,4,Overweight,50-80k
+Ontario,Female,60,92945.0,33.4,6.6,No,Good,7,Obese,80-110k
+New Brunswick,Male,25,79148.0,26.1,3.1,No,Very Good,10,Overweight,50-80k
+New Brunswick,Female,41,55653.0,32.2,6.1,No,Very Good,5,Obese,50-80k
+Nova Scotia,Male,67,86292.0,23.7,4.2,No,Fair,2,Normal,80-110k
+Saskatchewan,Female,56,89573.0,19.8,4.4,No,Fair,2,Normal,80-110k
+New Brunswick,Female,26,79759.0,27.9,0.8,No,Good,7,Overweight,50-80k
+Quebec,Male,20,82392.0,18.4,5.4,No,Very Good,5,Underweight,80-110k
+Prince Edward Island,Female,54,72826.0,45.0,2.8,No,Very Good,7,Obese,50-80k
+Manitoba,Female,47,107566.0,33.6,5.2,Yes,Very Good,4,Obese,80-110k
+Prince Edward Island,Female,78,59986.0,17.7,1.9,No,Very Good,7,Underweight,50-80k
+Quebec,Male,50,66254.0,20.8,3.9,No,Good,5,Normal,50-80k
+Saskatchewan,Male,76,78220.0,22.0,4.2,No,Good,4,Normal,50-80k
+Nova Scotia,Female,31,95579.0,26.9,3.2,No,Poor,4,Overweight,80-110k
+Saskatchewan,Female,46,48053.0,25.4,4.3,No,Excellent,3,Overweight,<50k
+Saskatchewan,Male,26,51794.0,34.2,3.0,Yes,Very Good,9,Obese,50-80k
+Quebec,Male,54,37245.0,32.0,2.2,No,Good,5,Obese,<50k
+Alberta,Female,29,78654.0,29.7,6.7,No,Poor,7,Overweight,50-80k
+British Columbia,Female,49,55634.0,27.9,5.6,No,Very Good,4,Overweight,50-80k
+Alberta,Female,39,70309.0,29.2,2.0,No,Very Good,3,Overweight,50-80k
+Nova Scotia,Female,29,91228.0,22.9,4.6,No,Very Good,5,Normal,80-110k
+Nova Scotia,Female,24,65169.0,31.5,2.0,No,Fair,8,Obese,50-80k
+Nova Scotia,Female,50,82626.0,21.6,1.1,Yes,Excellent,4,Normal,80-110k
+Alberta,Male,77,72013.0,31.4,5.6,No,Very Good,3,Obese,50-80k
+Prince Edward Island,Male,30,91442.0,33.1,0.1,No,Very Good,6,Obese,80-110k
+Ontario,Female,43,87503.0,28.3,5.4,No,Very Good,6,Overweight,80-110k
+Alberta,Female,32,64161.0,26.3,3.0,Yes,Excellent,9,Overweight,50-80k
+Quebec,Female,68,74627.0,29.2,3.1,No,Excellent,6,Overweight,50-80k
+Alberta,Female,44,98875.0,27.3,4.3,No,Very Good,7,Overweight,80-110k
+Prince Edward Island,Female,79,85868.0,28.7,4.7,No,Good,7,Overweight,80-110k
+Alberta,Female,33,50061.0,26.6,1.8,No,Good,3,Overweight,50-80k
+Prince Edward Island,Female,23,91112.0,26.9,4.9,No,Very Good,3,Overweight,80-110k
+Saskatchewan,Male,54,56308.0,30.7,3.7,No,Very Good,3,Obese,50-80k
+Nova Scotia,Male,59,106250.0,26.8,1.0,No,Poor,2,Overweight,80-110k
+Saskatchewan,Female,80,98482.0,21.5,3.2,No,Fair,7,Normal,80-110k
+British Columbia,Female,72,83798.0,26.5,6.3,Yes,Excellent,6,Overweight,80-110k
+New Brunswick,Female,73,81145.0,27.5,6.9,Yes,Excellent,5,Overweight,80-110k
+Prince Edward Island,Male,57,73819.0,27.8,4.9,No,Excellent,1,Overweight,50-80k
+British Columbia,Female,40,91570.0,28.0,1.1,No,Good,10,Overweight,80-110k
+New Brunswick,Male,45,70584.0,32.4,4.5,No,Very Good,3,Obese,50-80k
+British Columbia,Male,26,82711.0,21.8,5.2,No,Very Good,10,Normal,80-110k
+New Brunswick,Male,45,95439.0,28.1,5.0,No,Good,2,Overweight,80-110k
+New Brunswick,Female,40,66764.0,33.6,5.1,Yes,Fair,3,Obese,50-80k
+Saskatchewan,Female,20,65676.0,18.5,4.2,No,Excellent,1,Normal,50-80k
+New Brunswick,Male,30,54113.0,28.1,3.4,No,Poor,6,Overweight,50-80k
+British Columbia,Female,51,78130.0,24.3,2.3,No,Very Good,3,Normal,50-80k
+Ontario,Female,41,41432.0,25.3,0.0,No,Very Good,3,Overweight,<50k
+Ontario,Male,80,92597.0,22.7,4.2,No,Very Good,2,Normal,80-110k
+Saskatchewan,Male,48,114178.0,26.4,3.9,No,Good,7,Overweight,>110k
+Prince Edward Island,Male,78,106507.0,36.4,4.6,No,Very Good,7,Obese,80-110k
+Quebec,Male,59,45478.0,20.9,0.8,No,Fair,9,Normal,<50k
+Saskatchewan,Male,20,92497.0,27.3,4.8,No,Very Good,4,Overweight,80-110k
+New Brunswick,Female,30,78130.0,20.7,7.6,No,Fair,6,Normal,50-80k
+British Columbia,Male,62,68864.0,35.8,3.7,No,Very Good,2,Obese,50-80k
+New Brunswick,Male,52,80029.0,24.9,3.4,No,Very Good,4,Normal,80-110k
+Alberta,Female,37,37842.0,27.1,4.1,No,Fair,4,Overweight,<50k
+Newfoundland and Labrador,Male,50,83335.0,25.2,7.6,No,Fair,6,Overweight,80-110k
+Manitoba,Male,74,56729.0,22.5,1.5,Yes,Very Good,7,Normal,50-80k
+Manitoba,Male,42,81993.0,26.0,3.9,No,Fair,7,Overweight,80-110k
+Quebec,Male,20,46776.0,39.5,1.9,No,Fair,3,Obese,<50k
+Saskatchewan,Female,37,88857.0,34.2,2.4,Yes,Good,7,Obese,80-110k
+Newfoundland and Labrador,Male,76,98490.0,22.9,3.4,No,Excellent,5,Normal,80-110k
+Ontario,Female,65,62336.0,30.4,6.2,Yes,Good,5,Obese,50-80k
+New Brunswick,Male,70,55262.0,23.0,7.1,Yes,Good,4,Normal,50-80k
+Saskatchewan,Female,75,34880.0,18.3,4.4,No,Excellent,4,Underweight,<50k
+New Brunswick,Female,25,5000.0,32.3,2.7,No,Good,9,Obese,<50k
+Nova Scotia,Male,35,66368.0,33.0,8.5,No,Good,6,Obese,50-80k
+Saskatchewan,Male,21,46980.0,32.4,2.6,No,Good,6,Obese,<50k
+Alberta,Male,18,87060.0,24.9,2.4,No,Good,5,Normal,80-110k
+Nova Scotia,Female,70,69001.0,26.4,0.0,No,Good,10,Overweight,50-80k
+Quebec,Female,77,56485.0,30.9,6.3,No,Very Good,8,Obese,50-80k
+Manitoba,Female,27,78130.0,29.2,5.4,No,Poor,4,Overweight,50-80k
+Ontario,Female,63,99426.0,25.2,8.3,Yes,Very Good,5,Overweight,80-110k
+Nova Scotia,Female,51,90059.0,19.1,0.7,No,Fair,5,Normal,80-110k
+Nova Scotia,Female,22,75399.0,27.8,6.4,Yes,Good,6,Overweight,50-80k
+Ontario,Male,75,90382.0,32.6,3.6,No,Fair,5,Obese,80-110k
+New Brunswick,Male,72,54782.0,21.2,5.1,No,Good,6,Normal,50-80k
+Saskatchewan,Female,53,78647.0,30.4,0.2,No,Very Good,8,Obese,50-80k
+New Brunswick,Female,62,80946.0,28.9,6.4,No,Good,2,Overweight,80-110k
+Ontario,Male,43,68603.0,31.0,5.1,No,Fair,3,Obese,50-80k
+Quebec,Female,67,86709.0,31.6,3.4,Yes,Fair,4,Obese,80-110k
+Saskatchewan,Male,46,62391.0,23.7,4.8,No,Very Good,4,Normal,50-80k
+Quebec,Female,80,88196.0,19.1,2.0,No,Good,9,Normal,80-110k
+Alberta,Male,21,89037.0,24.5,2.3,No,Very Good,7,Normal,80-110k
+Nova Scotia,Female,28,19657.0,31.6,2.6,No,Good,7,Obese,<50k
+Quebec,Male,79,101806.0,24.5,0.0,Yes,Fair,5,Normal,80-110k
+Nova Scotia,Male,36,17047.0,23.7,5.2,Yes,Very Good,5,Normal,<50k
+Quebec,Male,37,65679.0,18.1,5.9,No,Good,2,Underweight,50-80k
+Quebec,Female,67,98507.0,36.0,2.1,No,Poor,7,Obese,80-110k
+Manitoba,Male,29,71654.0,31.3,4.2,Yes,Excellent,6,Obese,50-80k
+New Brunswick,Female,50,48676.0,31.0,3.0,No,Fair,8,Obese,<50k
+Quebec,Female,36,56125.0,27.3,4.2,No,Good,5,Overweight,50-80k
+British Columbia,Female,30,98538.0,30.1,2.2,No,Good,5,Obese,80-110k
+Prince Edward Island,Female,78,39570.0,26.0,1.7,No,Good,6,Overweight,<50k
+Prince Edward Island,Male,30,100580.0,26.4,5.6,Yes,Very Good,7,Overweight,80-110k
+Manitoba,Female,23,76898.0,25.1,3.4,No,Poor,2,Overweight,50-80k
+Saskatchewan,Male,60,54152.0,40.4,7.5,No,Excellent,7,Obese,50-80k
+Alberta,Male,72,66338.0,30.0,3.6,No,Very Good,5,Obese,50-80k
+Nova Scotia,Female,26,57656.0,24.9,1.6,Yes,Excellent,3,Normal,50-80k
+Manitoba,Male,62,95325.0,29.5,6.0,Yes,Very Good,1,Overweight,80-110k
+British Columbia,Male,52,92649.0,22.1,4.8,No,Excellent,5,Normal,80-110k
+Ontario,Female,70,43617.0,34.7,5.0,Yes,Very Good,8,Obese,<50k
+Quebec,Male,25,69928.0,23.9,5.9,No,Good,9,Normal,50-80k
+Prince Edward Island,Male,79,60736.0,29.7,2.2,No,Good,6,Overweight,50-80k
+Saskatchewan,Female,57,103870.0,32.5,3.2,No,Very Good,9,Obese,80-110k
+Saskatchewan,Male,71,50998.0,29.1,3.2,No,Good,5,Overweight,50-80k
+Saskatchewan,Female,40,110085.0,27.7,0.9,No,Very Good,7,Overweight,>110k
+New Brunswick,Male,77,77334.0,27.3,3.0,No,Fair,4,Overweight,50-80k
+Ontario,Male,57,54761.0,26.9,6.2,No,Very Good,4,Overweight,50-80k
+Ontario,Female,25,64455.0,24.3,4.0,No,Fair,4,Normal,50-80k
+British Columbia,Male,76,61968.0,25.0,0.8,No,Excellent,1,Overweight,50-80k
+Saskatchewan,Female,68,52508.0,34.6,0.4,No,Fair,8,Obese,50-80k
+Nova Scotia,Female,36,79897.0,26.7,6.8,No,Fair,4,Overweight,50-80k
+Saskatchewan,Female,52,53442.0,23.3,3.3,No,Very Good,4,Normal,50-80k
+Saskatchewan,Female,42,34393.0,24.6,2.2,No,Very Good,3,Normal,<50k
+Prince Edward Island,Female,52,70406.0,32.7,3.0,No,Very Good,5,Obese,50-80k
+Quebec,Male,78,41943.0,30.6,0.5,No,Excellent,9,Obese,<50k
+Manitoba,Female,74,62957.0,30.0,6.3,No,Good,10,Obese,50-80k
+Manitoba,Male,31,59818.0,25.9,2.7,No,Very Good,2,Overweight,50-80k
+Saskatchewan,Female,79,60576.0,30.1,6.2,No,Good,4,Obese,50-80k
+Newfoundland and Labrador,Male,45,118019.0,24.0,3.6,No,Good,3,Normal,>110k
+British Columbia,Male,62,79128.0,25.9,6.4,No,Good,7,Overweight,50-80k
+Prince Edward Island,Male,66,82907.0,32.0,4.0,No,Poor,6,Obese,80-110k
+Alberta,Male,48,42472.0,31.6,5.2,Yes,Very Good,4,Obese,<50k
+Manitoba,Female,46,64921.0,22.3,4.9,No,Very Good,5,Normal,50-80k
+Manitoba,Female,46,82306.0,27.3,4.7,No,Fair,4,Overweight,80-110k
+Newfoundland and Labrador,Female,72,57509.0,27.7,4.2,No,Excellent,9,Overweight,50-80k
+Saskatchewan,Male,42,96161.0,35.8,3.0,No,Good,6,Obese,80-110k
+British Columbia,Female,35,53946.0,17.6,7.3,No,Fair,7,Underweight,50-80k
+Ontario,Male,40,72273.0,28.6,1.7,No,Very Good,5,Overweight,50-80k
+Alberta,Male,30,66279.0,20.3,3.5,Yes,Fair,5,Normal,50-80k
+Newfoundland and Labrador,Male,42,81286.0,24.0,3.5,No,Poor,10,Normal,80-110k
+Ontario,Male,25,65190.0,25.4,4.3,No,Very Good,8,Overweight,50-80k
+Newfoundland and Labrador,Female,23,72582.0,25.1,2.6,No,Fair,1,Overweight,50-80k
+Manitoba,Female,63,73277.0,24.5,4.1,No,Fair,5,Normal,50-80k
+Quebec,Female,22,63312.0,27.2,3.2,No,Very Good,3,Overweight,50-80k
+Alberta,Male,53,87702.0,24.5,0.3,No,Poor,9,Normal,80-110k
+Manitoba,Male,67,82768.0,19.9,3.5,No,Very Good,6,Normal,80-110k
+Alberta,Female,63,76228.0,31.1,1.3,Yes,Very Good,4,Obese,50-80k
+Quebec,Male,46,69391.0,31.0,0.0,No,Fair,5,Obese,50-80k
+Nova Scotia,Female,30,93931.0,27.3,3.8,No,Good,1,Overweight,80-110k
+Nova Scotia,Male,76,73283.0,19.5,4.5,No,Fair,3,Normal,50-80k
+Quebec,Female,70,71866.0,28.7,4.6,No,Very Good,5,Overweight,50-80k
+British Columbia,Female,56,80094.0,30.6,4.6,Yes,Poor,7,Obese,80-110k
+British Columbia,Female,23,111932.0,22.0,0.0,No,Excellent,1,Normal,>110k
+Nova Scotia,Male,20,51193.0,27.2,0.8,No,Fair,4,Overweight,50-80k
+New Brunswick,Male,37,93397.0,26.6,7.4,Yes,Very Good,7,Overweight,80-110k
+New Brunswick,Male,27,40137.0,36.4,1.4,No,Fair,2,Obese,<50k
+Prince Edward Island,Male,72,78130.0,36.8,4.7,No,Fair,6,Obese,50-80k
+New Brunswick,Female,30,109502.0,18.9,2.1,No,Good,5,Normal,80-110k
+Alberta,Female,35,87773.0,39.7,3.7,No,Very Good,9,Obese,80-110k
+Quebec,Female,79,81413.0,22.6,2.2,No,Excellent,5,Normal,80-110k
+Nova Scotia,Female,69,78130.0,32.1,4.6,No,Poor,5,Obese,50-80k
+Prince Edward Island,Female,31,78621.0,32.1,3.8,No,Poor,7,Obese,50-80k
+Prince Edward Island,Male,42,72959.0,22.2,2.6,No,Good,2,Normal,50-80k
+British Columbia,Female,50,62280.0,29.7,3.5,No,Good,5,Overweight,50-80k
+British Columbia,Female,59,72202.0,26.7,4.0,No,Excellent,4,Overweight,50-80k
+Ontario,Male,76,81968.0,30.0,1.1,Yes,Excellent,5,Obese,80-110k
+Quebec,Female,72,62656.0,28.4,4.4,No,Excellent,7,Overweight,50-80k
+Manitoba,Female,79,61874.0,33.2,8.8,No,Fair,6,Obese,50-80k
+Manitoba,Male,20,50795.0,27.6,6.2,Yes,Good,4,Overweight,50-80k
+Alberta,Female,32,85815.0,26.4,4.9,No,Very Good,5,Overweight,80-110k
+Alberta,Female,53,88906.0,32.7,3.3,No,Good,8,Obese,80-110k
+Newfoundland and Labrador,Male,21,82633.0,30.1,0.0,Yes,Very Good,3,Obese,80-110k
+Saskatchewan,Female,40,97303.0,30.9,3.5,No,Fair,6,Obese,80-110k
+Newfoundland and Labrador,Female,27,79757.0,27.3,6.1,Yes,Good,5,Overweight,50-80k
+Prince Edward Island,Male,76,85840.0,22.0,1.9,No,Excellent,5,Normal,80-110k
+Alberta,Male,21,84077.0,24.4,2.1,No,Good,2,Normal,80-110k
+British Columbia,Male,27,76169.0,24.1,3.2,No,Excellent,8,Normal,50-80k
+Prince Edward Island,Male,30,67384.0,31.1,1.4,No,Good,4,Obese,50-80k
+Nova Scotia,Male,27,122283.0,32.1,1.0,No,Poor,7,Obese,>110k
+British Columbia,Male,53,68961.0,26.4,3.4,No,Good,4,Overweight,50-80k
+Nova Scotia,Male,40,64682.0,34.4,1.7,No,Fair,4,Obese,50-80k
+Manitoba,Male,75,86680.0,34.0,2.0,Yes,Good,8,Obese,80-110k
+Prince Edward Island,Male,34,83037.0,28.4,1.9,Yes,Fair,7,Overweight,80-110k
+British Columbia,Male,51,49904.0,23.1,4.5,Yes,Very Good,6,Normal,<50k
+Prince Edward Island,Male,59,100454.0,35.1,3.0,No,Excellent,7,Obese,80-110k
+Prince Edward Island,Male,57,76116.0,26.9,3.1,No,Good,5,Overweight,50-80k
+Quebec,Male,68,55781.0,27.8,4.7,No,Fair,5,Overweight,50-80k
+Quebec,Male,30,101776.0,25.5,3.2,Yes,Good,4,Overweight,80-110k
+Manitoba,Male,49,90514.0,22.8,2.9,No,Very Good,7,Normal,80-110k
+Ontario,Male,68,52709.0,19.9,4.4,Yes,Very Good,4,Normal,50-80k
+British Columbia,Male,72,113544.0,30.4,4.8,No,Fair,8,Obese,>110k
+Saskatchewan,Female,56,91176.0,23.3,3.2,No,Good,5,Normal,80-110k
+Prince Edward Island,Male,59,77796.0,42.5,3.7,No,Good,5,Obese,50-80k
+Prince Edward Island,Male,72,109804.0,27.3,1.9,Yes,Good,7,Overweight,80-110k
+Quebec,Male,57,81186.0,20.9,1.8,No,Fair,5,Normal,80-110k
+Newfoundland and Labrador,Female,77,77438.0,29.8,5.0,No,Excellent,5,Overweight,50-80k
+Ontario,Male,26,64794.0,34.8,4.4,Yes,Fair,5,Obese,50-80k
+New Brunswick,Female,39,89637.0,27.5,4.4,No,Fair,7,Overweight,80-110k
+Newfoundland and Labrador,Female,25,87532.0,30.1,4.1,No,Fair,4,Obese,80-110k
+Newfoundland and Labrador,Female,23,78294.0,18.0,3.6,No,Very Good,5,Underweight,50-80k
+British Columbia,Female,47,62200.0,23.8,4.9,Yes,Good,5,Normal,50-80k
+Newfoundland and Labrador,Female,32,80599.0,21.8,5.4,No,Fair,7,Normal,80-110k
+Quebec,Male,43,76604.0,17.7,5.3,Yes,Good,5,Underweight,50-80k
+Manitoba,Male,45,51331.0,27.8,3.3,No,Very Good,9,Overweight,50-80k
+Saskatchewan,Female,57,48564.0,27.3,6.3,No,Good,5,Overweight,<50k
+Alberta,Female,77,89303.0,20.6,4.0,Yes,Excellent,5,Normal,80-110k
+Ontario,Male,71,25962.0,24.5,4.8,Yes,Good,5,Normal,<50k
+New Brunswick,Male,41,82108.0,23.0,4.1,Yes,Fair,2,Normal,80-110k
+Alberta,Female,38,68438.0,29.2,4.0,Yes,Excellent,3,Overweight,50-80k
+Nova Scotia,Male,66,104165.0,28.7,2.0,No,Very Good,4,Overweight,80-110k
+Saskatchewan,Male,25,68131.0,31.7,4.9,No,Good,8,Obese,50-80k
+Alberta,Female,52,200000.0,31.0,9.2,Yes,Very Good,5,Obese,>110k
+Newfoundland and Labrador,Female,44,70062.0,32.9,2.8,No,Good,4,Obese,50-80k
+Ontario,Female,29,80275.0,27.2,3.6,No,Good,8,Overweight,80-110k
+New Brunswick,Female,56,92737.0,28.7,2.6,No,Very Good,8,Overweight,80-110k
+New Brunswick,Male,38,68749.0,29.8,2.5,No,Very Good,8,Overweight,50-80k
+Alberta,Male,29,97931.0,27.9,6.6,No,Good,3,Overweight,80-110k
+British Columbia,Male,59,58126.0,25.2,2.2,No,Very Good,4,Overweight,50-80k
+Ontario,Male,28,83892.0,25.5,2.6,No,Good,9,Overweight,80-110k
+Prince Edward Island,Female,60,96453.0,23.1,0.3,No,Poor,6,Normal,80-110k
+Prince Edward Island,Male,28,91201.0,29.3,2.0,No,Excellent,5,Overweight,80-110k
+British Columbia,Female,45,116329.0,26.7,0.1,No,Good,7,Overweight,>110k
+Ontario,Female,68,62731.0,23.9,4.8,No,Very Good,7,Normal,50-80k
+Quebec,Male,32,50417.0,23.9,3.5,No,Very Good,4,Normal,50-80k
+Ontario,Male,66,58113.0,21.1,2.8,No,Good,6,Normal,50-80k
+Newfoundland and Labrador,Female,63,91209.0,32.1,0.2,No,Good,7,Obese,80-110k
+Newfoundland and Labrador,Male,74,87958.0,27.6,5.3,No,Excellent,3,Overweight,80-110k
+Quebec,Male,28,80045.0,22.9,2.0,No,Very Good,5,Normal,80-110k
+New Brunswick,Male,63,55541.0,31.2,6.1,No,Very Good,3,Obese,50-80k
+Quebec,Male,77,93337.0,24.4,2.9,No,Good,3,Normal,80-110k
+Alberta,Male,66,53506.0,20.2,2.2,No,Good,4,Normal,50-80k
+Manitoba,Male,29,101179.0,32.3,3.1,No,Poor,6,Obese,80-110k
+New Brunswick,Female,69,135149.0,24.5,5.0,No,Good,5,Normal,>110k
+Newfoundland and Labrador,Male,24,85329.0,27.3,3.0,No,Fair,4,Overweight,80-110k
+Ontario,Male,55,89662.0,27.4,2.5,Yes,Very Good,5,Overweight,80-110k
+Quebec,Female,49,68143.0,32.9,3.1,No,Excellent,3,Obese,50-80k
+British Columbia,Male,51,41796.0,27.3,1.0,Yes,Good,6,Overweight,<50k
+Alberta,Female,50,65946.0,21.2,4.3,No,Good,8,Normal,50-80k
+Prince Edward Island,Male,19,56142.0,29.9,0.0,Yes,Very Good,5,Overweight,50-80k
+New Brunswick,Male,50,49060.0,24.8,2.6,No,Fair,5,Normal,<50k
+Alberta,Male,77,112447.0,36.6,5.0,No,Excellent,6,Obese,>110k
+Prince Edward Island,Male,45,83457.0,27.2,4.1,No,Good,1,Overweight,80-110k
+Saskatchewan,Male,35,85594.0,16.0,4.7,No,Fair,6,Underweight,80-110k
+Manitoba,Male,80,71820.0,29.0,3.4,No,Fair,10,Overweight,50-80k
+Saskatchewan,Male,24,74543.0,36.9,5.8,No,Excellent,5,Obese,50-80k
+Quebec,Female,48,97291.0,35.1,5.3,No,Fair,5,Obese,80-110k
+Prince Edward Island,Male,50,78130.0,36.4,4.4,No,Very Good,7,Obese,50-80k
+Ontario,Female,48,88614.0,22.1,5.4,No,Fair,9,Normal,80-110k
+Quebec,Male,76,74080.0,31.8,5.0,No,Fair,7,Obese,50-80k
+British Columbia,Female,44,71157.0,23.6,2.6,Yes,Excellent,1,Normal,50-80k
+British Columbia,Female,79,49862.0,28.3,0.8,No,Fair,6,Overweight,<50k
+Quebec,Female,22,38445.0,20.8,4.3,No,Poor,10,Normal,<50k
+Ontario,Female,64,72769.0,24.0,4.6,No,Good,7,Normal,50-80k
+Nova Scotia,Male,55,79130.0,23.8,5.7,No,Excellent,3,Normal,50-80k
+Prince Edward Island,Female,33,52277.0,31.7,1.6,Yes,Good,6,Obese,50-80k
+Quebec,Male,32,77311.0,31.2,1.7,No,Fair,3,Obese,50-80k
+British Columbia,Female,63,79075.0,28.6,4.4,Yes,Excellent,8,Overweight,50-80k
+Manitoba,Male,58,34880.0,20.4,3.4,No,Very Good,3,Normal,<50k
+Prince Edward Island,Male,56,78130.0,25.6,0.0,No,Excellent,5,Overweight,50-80k
+Nova Scotia,Female,21,86145.0,23.5,4.3,No,Very Good,3,Normal,80-110k
+New Brunswick,Female,55,85741.0,31.5,0.0,No,Very Good,4,Obese,80-110k
+Manitoba,Male,79,54927.0,33.1,1.6,No,Good,8,Obese,50-80k
+Saskatchewan,Female,19,81169.0,32.5,6.2,No,Good,5,Obese,80-110k
+Quebec,Male,47,98448.0,27.3,7.1,No,Very Good,4,Overweight,80-110k
+Newfoundland and Labrador,Male,49,93541.0,13.5,1.1,No,Very Good,3,Underweight,80-110k
+Newfoundland and Labrador,Male,74,76094.0,18.4,2.8,No,Excellent,1,Underweight,50-80k
+Ontario,Male,35,68640.0,34.3,3.6,No,Good,3,Obese,50-80k
+New Brunswick,Male,47,65413.0,25.2,7.1,Yes,Good,5,Overweight,50-80k
+Ontario,Female,63,87356.0,23.4,2.5,Yes,Good,7,Normal,80-110k
+New Brunswick,Female,21,81902.0,35.4,2.5,No,Very Good,4,Obese,80-110k
+Newfoundland and Labrador,Male,68,90588.0,33.5,3.5,No,Good,8,Obese,80-110k
+Quebec,Female,69,80637.0,27.3,3.5,No,Very Good,4,Overweight,80-110k
+Saskatchewan,Female,63,94375.0,25.7,4.9,No,Very Good,5,Overweight,80-110k
+Quebec,Female,58,79892.0,26.5,0.5,No,Poor,3,Overweight,50-80k
+Manitoba,Female,65,93694.0,28.3,3.2,Yes,Good,7,Overweight,80-110k
+Prince Edward Island,Female,67,95416.0,35.2,0.2,Yes,Very Good,10,Obese,80-110k
+Ontario,Male,74,61909.0,29.3,3.5,No,Excellent,2,Overweight,50-80k
+Alberta,Male,44,41837.0,30.8,5.2,No,Good,4,Obese,<50k
+Prince Edward Island,Male,46,108870.0,33.0,3.4,No,Very Good,8,Obese,80-110k
+Alberta,Male,58,83133.0,21.4,2.9,Yes,Good,2,Normal,80-110k
+Quebec,Female,30,43710.0,31.0,2.0,No,Good,6,Obese,<50k
+Saskatchewan,Male,71,63724.0,25.7,3.1,No,Poor,8,Overweight,50-80k
+Manitoba,Male,66,93437.0,14.6,4.1,No,Excellent,5,Underweight,80-110k
+Nova Scotia,Female,57,72406.0,16.6,5.5,No,Excellent,6,Underweight,50-80k
+Alberta,Male,37,67759.0,22.1,3.5,Yes,Good,9,Normal,50-80k
+Prince Edward Island,Female,39,106018.0,29.9,1.8,No,Good,9,Overweight,80-110k
+Manitoba,Female,45,57054.0,27.8,3.8,No,Poor,5,Overweight,50-80k
+British Columbia,Female,59,62037.0,28.1,3.3,No,Very Good,4,Overweight,50-80k
+Prince Edward Island,Male,67,82228.0,37.0,4.3,Yes,Good,3,Obese,80-110k
+Prince Edward Island,Female,60,85809.0,20.9,4.0,Yes,Very Good,7,Normal,80-110k
+Saskatchewan,Female,76,87927.0,27.1,2.9,No,Poor,2,Overweight,80-110k
+Ontario,Male,78,96225.0,28.7,2.4,No,Very Good,5,Overweight,80-110k
+Manitoba,Male,62,78130.0,23.5,3.0,Yes,Good,5,Normal,50-80k
+Manitoba,Female,41,87788.0,27.3,5.8,No,Very Good,4,Overweight,80-110k
+Quebec,Male,55,72816.0,19.2,2.0,No,Very Good,6,Normal,50-80k
+Nova Scotia,Female,44,79254.0,34.2,3.4,No,Fair,10,Obese,50-80k
+Newfoundland and Labrador,Female,57,80151.0,23.8,3.9,No,Good,5,Normal,80-110k
+Quebec,Male,69,82302.0,37.4,6.6,No,Very Good,4,Obese,80-110k
+New Brunswick,Female,41,93451.0,27.0,2.9,No,Very Good,7,Overweight,80-110k
+Quebec,Female,49,78130.0,32.3,5.4,No,Poor,6,Obese,50-80k
+New Brunswick,Male,20,78884.0,26.9,6.0,No,Good,8,Overweight,50-80k
+Saskatchewan,Male,64,61817.0,27.0,3.4,No,Good,6,Overweight,50-80k
+Ontario,Female,48,79353.0,24.3,3.1,Yes,Very Good,5,Normal,50-80k
+Prince Edward Island,Female,46,77440.0,27.8,2.8,No,Very Good,1,Overweight,50-80k
+Quebec,Female,51,81864.0,28.8,3.0,Yes,Poor,2,Overweight,80-110k
+Manitoba,Male,31,122131.0,23.3,5.2,Yes,Very Good,1,Normal,>110k
+Quebec,Male,55,67525.0,26.6,4.0,No,Very Good,5,Overweight,50-80k
+Prince Edward Island,Female,64,86446.0,24.1,4.0,Yes,Very Good,2,Normal,80-110k
+New Brunswick,Male,40,99369.0,38.7,1.2,No,Poor,8,Obese,80-110k
+Newfoundland and Labrador,Female,26,79960.0,26.8,1.6,No,Good,5,Overweight,50-80k
+Saskatchewan,Male,42,124757.0,34.9,7.8,No,Good,5,Obese,>110k
+Saskatchewan,Male,30,70439.0,26.2,3.1,No,Fair,3,Overweight,50-80k
+Nova Scotia,Male,41,84482.0,28.5,2.0,No,Good,7,Overweight,80-110k
+New Brunswick,Female,57,62024.0,27.3,6.4,No,Poor,4,Overweight,50-80k
+Newfoundland and Labrador,Male,25,70970.0,25.0,4.1,No,Fair,3,Overweight,50-80k
+Ontario,Male,65,82979.0,28.3,4.7,No,Very Good,8,Overweight,80-110k
+Nova Scotia,Female,32,94926.0,35.1,3.2,No,Good,6,Obese,80-110k
+Quebec,Female,74,84382.0,28.3,2.9,No,Very Good,5,Overweight,80-110k
+British Columbia,Male,64,103182.0,34.1,3.2,Yes,Poor,7,Obese,80-110k
+Newfoundland and Labrador,Female,35,76101.0,30.4,0.7,No,Good,5,Obese,50-80k
+British Columbia,Male,53,71357.0,27.3,3.3,No,Good,6,Overweight,50-80k
+New Brunswick,Male,24,132080.0,26.9,4.1,Yes,Very Good,3,Overweight,>110k
+Saskatchewan,Female,24,85885.0,39.2,7.2,No,Very Good,10,Obese,80-110k
+British Columbia,Female,78,63610.0,24.8,3.7,No,Good,5,Normal,50-80k
+Alberta,Male,68,64115.0,23.4,0.0,No,Very Good,8,Normal,50-80k
+Manitoba,Male,27,59146.0,21.1,3.3,No,Fair,5,Normal,50-80k
+New Brunswick,Female,35,96731.0,38.9,9.0,No,Very Good,7,Obese,80-110k
+Nova Scotia,Female,30,70712.0,31.3,5.2,No,Fair,7,Obese,50-80k
+Prince Edward Island,Female,42,80547.0,25.5,1.9,No,Good,8,Overweight,80-110k
+Newfoundland and Labrador,Male,36,76730.0,27.3,4.7,No,Fair,3,Overweight,50-80k
+New Brunswick,Male,38,92630.0,30.6,2.0,No,Excellent,7,Obese,80-110k
+Nova Scotia,Female,51,61065.0,37.0,0.8,No,Good,9,Obese,50-80k
+British Columbia,Male,29,56489.0,19.5,2.8,Yes,Very Good,5,Normal,50-80k
+Saskatchewan,Male,73,78130.0,25.9,3.7,No,Good,5,Overweight,50-80k
+Quebec,Male,63,90019.0,24.9,0.0,Yes,Good,4,Normal,80-110k
+Alberta,Male,65,84651.0,17.3,1.2,No,Fair,4,Underweight,80-110k
+Prince Edward Island,Male,28,61811.0,32.5,3.5,No,Excellent,9,Obese,50-80k
+Saskatchewan,Male,62,91550.0,25.8,2.7,No,Very Good,3,Overweight,80-110k
+Quebec,Male,70,63123.0,30.9,4.3,No,Fair,3,Obese,50-80k
+Nova Scotia,Male,29,67569.0,39.0,1.1,No,Very Good,9,Obese,50-80k
+Prince Edward Island,Male,65,59121.0,25.4,4.9,No,Good,7,Overweight,50-80k
+Newfoundland and Labrador,Male,40,78130.0,25.1,1.1,No,Poor,10,Overweight,50-80k
+British Columbia,Female,67,90668.0,27.8,3.5,No,Good,4,Overweight,80-110k
+Saskatchewan,Female,48,90100.0,32.1,0.1,No,Fair,5,Obese,80-110k
+Manitoba,Female,68,102944.0,24.4,1.3,No,Fair,4,Normal,80-110k
+British Columbia,Female,27,134253.0,27.3,4.3,Yes,Very Good,6,Overweight,>110k
+British Columbia,Female,42,43815.0,32.5,6.8,No,Good,1,Obese,<50k
+British Columbia,Female,35,63232.0,29.1,4.1,No,Excellent,7,Overweight,50-80k
+Prince Edward Island,Male,33,65676.0,17.0,4.6,No,Very Good,6,Underweight,50-80k
+New Brunswick,Female,37,60984.0,21.1,3.5,No,Very Good,5,Normal,50-80k
+Newfoundland and Labrador,Male,42,56448.0,34.7,1.4,No,Very Good,4,Obese,50-80k
+Newfoundland and Labrador,Male,26,72007.0,29.2,2.5,No,Excellent,3,Overweight,50-80k
+Prince Edward Island,Male,62,53668.0,23.4,1.1,No,Good,7,Normal,50-80k
+Quebec,Female,52,250000.0,26.3,0.9,No,Good,3,Overweight,>110k
+Newfoundland and Labrador,Male,70,79034.0,27.3,4.3,No,Good,6,Overweight,50-80k
+Ontario,Male,62,87621.0,30.9,1.3,No,Excellent,10,Obese,80-110k
+Saskatchewan,Female,27,88155.0,20.4,4.1,Yes,Fair,8,Normal,80-110k
+Manitoba,Female,22,90060.0,23.0,0.9,No,Very Good,2,Normal,80-110k
+Alberta,Male,44,70532.0,28.6,4.1,No,Very Good,4,Overweight,50-80k
+Quebec,Female,48,120423.0,26.7,2.5,No,Good,6,Overweight,>110k
+Quebec,Male,33,82689.0,30.1,6.3,No,Excellent,5,Obese,80-110k
+Newfoundland and Labrador,Male,67,40750.0,21.1,4.1,No,Good,2,Normal,<50k
+Alberta,Female,54,57952.0,29.0,6.0,No,Fair,6,Overweight,50-80k
+Alberta,Male,65,43190.0,32.7,2.0,No,Very Good,5,Obese,<50k
+Prince Edward Island,Male,24,78347.0,29.6,3.6,No,Good,9,Overweight,50-80k
+Quebec,Male,69,75564.0,27.9,1.5,Yes,Poor,5,Overweight,50-80k
+Prince Edward Island,Male,30,68631.0,26.7,2.7,Yes,Poor,8,Overweight,50-80k
+Prince Edward Island,Female,46,78130.0,23.0,3.0,Yes,Fair,5,Normal,50-80k
+Manitoba,Male,45,88980.0,26.8,2.0,Yes,Very Good,3,Overweight,80-110k
+Quebec,Female,69,92522.0,33.5,1.1,Yes,Excellent,7,Obese,80-110k
+Quebec,Female,35,59379.0,26.6,0.7,No,Good,7,Overweight,50-80k
+British Columbia,Female,33,220000.0,22.8,0.0,No,Fair,3,Normal,>110k
+Manitoba,Male,39,78736.0,24.7,1.4,No,Good,5,Normal,50-80k
+Quebec,Male,40,81460.0,28.2,4.8,No,Excellent,2,Overweight,80-110k
+Saskatchewan,Female,29,40874.0,27.3,0.3,No,Very Good,5,Overweight,<50k
+Quebec,Male,29,74394.0,29.6,0.8,No,Good,7,Overweight,50-80k
+Manitoba,Male,32,78281.0,29.8,7.1,Yes,Fair,4,Overweight,50-80k
+Ontario,Female,47,73697.0,31.6,2.2,No,Excellent,5,Obese,50-80k
+New Brunswick,Female,39,61732.0,34.3,4.1,Yes,Excellent,3,Obese,50-80k
+Ontario,Female,42,67209.0,32.2,4.8,No,Poor,4,Obese,50-80k
+Quebec,Male,63,74463.0,22.5,4.8,No,Very Good,9,Normal,50-80k
+Quebec,Male,33,79816.0,22.7,0.5,No,Fair,5,Normal,50-80k
+Newfoundland and Labrador,Male,75,90096.0,26.8,3.0,Yes,Poor,3,Overweight,80-110k
+Ontario,Male,65,99617.0,24.9,0.3,Yes,Very Good,5,Normal,80-110k
+Saskatchewan,Male,29,72113.0,21.5,8.4,Yes,Good,2,Normal,50-80k
+Manitoba,Male,37,68877.0,25.0,0.3,No,Good,3,Overweight,50-80k
+Manitoba,Male,29,86753.0,24.8,1.4,No,Excellent,8,Normal,80-110k
+Nova Scotia,Female,35,90217.0,23.8,1.4,No,Very Good,5,Normal,80-110k
+Newfoundland and Labrador,Male,41,69316.0,25.6,0.5,Yes,Poor,9,Overweight,50-80k
+Alberta,Female,26,93808.0,33.1,6.2,No,Very Good,5,Obese,80-110k
+Newfoundland and Labrador,Female,18,97592.0,28.2,8.3,No,Very Good,5,Overweight,80-110k
+Alberta,Male,45,103834.0,27.3,2.5,No,Good,7,Overweight,80-110k
+Prince Edward Island,Male,62,113566.0,28.1,0.9,No,Excellent,1,Overweight,>110k
+Manitoba,Female,37,60672.0,25.7,0.0,No,Very Good,6,Overweight,50-80k
+New Brunswick,Female,72,78278.0,27.2,3.0,No,Fair,5,Overweight,50-80k
+Newfoundland and Labrador,Female,41,78226.0,28.5,2.9,Yes,Fair,8,Overweight,50-80k
+New Brunswick,Female,74,76039.0,29.4,2.2,No,Very Good,7,Overweight,50-80k
+Newfoundland and Labrador,Male,32,65015.0,37.6,3.9,No,Excellent,3,Obese,50-80k
+Manitoba,Female,51,48289.0,23.0,4.3,No,Fair,8,Normal,<50k
+Ontario,Female,66,79854.0,31.5,4.1,No,Fair,5,Obese,50-80k
+Saskatchewan,Male,21,62633.0,27.3,2.9,No,Very Good,3,Overweight,50-80k
+Quebec,Female,76,79720.0,19.3,1.3,No,Poor,6,Normal,50-80k
+Newfoundland and Labrador,Female,40,62119.0,31.1,4.8,No,Poor,5,Obese,50-80k
+British Columbia,Male,49,56007.0,33.5,3.5,No,Excellent,8,Obese,50-80k
+British Columbia,Female,57,82686.0,22.9,5.3,No,Very Good,6,Normal,80-110k
+British Columbia,Female,58,81018.0,27.2,5.1,No,Excellent,6,Overweight,80-110k
+Nova Scotia,Male,19,89586.0,18.6,0.7,No,Very Good,7,Normal,80-110k
+Manitoba,Female,72,121717.0,20.9,0.6,No,Good,7,Normal,>110k
+Prince Edward Island,Female,57,83546.0,32.4,2.0,No,Excellent,7,Obese,80-110k
+Saskatchewan,Male,80,87702.0,24.9,1.4,No,Good,8,Normal,80-110k
+British Columbia,Male,47,56449.0,21.7,5.0,Yes,Good,6,Normal,50-80k
+Ontario,Female,56,52262.0,27.3,4.2,No,Excellent,6,Overweight,50-80k
+Ontario,Female,45,109657.0,24.6,5.7,No,Very Good,8,Normal,80-110k
+Alberta,Male,74,59530.0,24.8,4.3,No,Excellent,5,Normal,50-80k
+Prince Edward Island,Female,70,57121.0,30.9,3.9,No,Fair,5,Obese,50-80k
+Manitoba,Male,75,77218.0,21.4,5.9,No,Excellent,9,Normal,50-80k
+Newfoundland and Labrador,Male,49,76196.0,22.7,4.4,Yes,Very Good,9,Normal,50-80k
+Quebec,Male,67,59950.0,28.0,3.6,No,Very Good,5,Overweight,50-80k
+Ontario,Female,40,71901.0,32.0,6.5,No,Excellent,4,Obese,50-80k
+Newfoundland and Labrador,Female,47,102588.0,33.4,3.7,No,Good,8,Obese,80-110k
+Quebec,Female,65,61880.0,23.9,2.9,No,Very Good,7,Normal,50-80k
+Ontario,Female,23,50127.0,31.9,1.8,No,Very Good,6,Obese,50-80k
+Saskatchewan,Female,62,78130.0,23.3,4.9,No,Very Good,5,Normal,50-80k
+Prince Edward Island,Male,18,87846.0,36.3,6.0,No,Excellent,6,Obese,80-110k
+Nova Scotia,Male,54,65590.0,21.5,3.4,No,Very Good,5,Normal,50-80k
+Ontario,Female,48,46357.0,33.8,6.1,No,Poor,4,Obese,<50k
+Newfoundland and Labrador,Female,47,63108.0,23.9,0.0,No,Fair,5,Normal,50-80k
+Newfoundland and Labrador,Female,49,76906.0,27.3,3.4,No,Excellent,6,Overweight,50-80k
+Newfoundland and Labrador,Male,48,101313.0,30.2,3.4,No,Excellent,5,Obese,80-110k
+Prince Edward Island,Male,43,57268.0,22.1,2.0,No,Excellent,7,Normal,50-80k
+British Columbia,Male,46,76310.0,24.6,8.3,No,Poor,8,Normal,50-80k
+Prince Edward Island,Male,53,91503.0,31.1,3.4,No,Good,7,Obese,80-110k
+Alberta,Female,66,30375.0,32.5,2.7,Yes,Very Good,5,Obese,<50k
+Newfoundland and Labrador,Male,52,98676.0,26.8,3.6,No,Very Good,5,Overweight,80-110k
+Manitoba,Female,58,54351.0,27.4,0.0,No,Fair,5,Overweight,50-80k
+New Brunswick,Female,70,84640.0,31.0,2.0,No,Very Good,3,Obese,80-110k
+Nova Scotia,Male,80,82934.0,27.9,5.5,No,Fair,7,Overweight,80-110k
+Nova Scotia,Male,24,78130.0,20.7,2.2,Yes,Good,6,Normal,50-80k
+Nova Scotia,Female,62,78130.0,23.1,1.8,No,Fair,10,Normal,50-80k
+New Brunswick,Female,32,78130.0,28.4,6.1,No,Poor,8,Overweight,50-80k
+New Brunswick,Female,30,62304.0,33.3,6.2,Yes,Fair,7,Obese,50-80k
+Quebec,Female,67,80764.0,35.3,4.5,No,Excellent,6,Obese,80-110k
+Newfoundland and Labrador,Female,22,74100.0,31.1,2.6,No,Very Good,6,Obese,50-80k
+Manitoba,Male,71,78130.0,28.6,3.0,No,Excellent,3,Overweight,50-80k
+Alberta,Female,66,93787.0,30.9,1.9,No,Good,2,Obese,80-110k
+Manitoba,Female,80,90169.0,23.9,1.5,Yes,Good,3,Normal,80-110k
+Prince Edward Island,Male,60,73715.0,26.4,1.4,No,Good,5,Overweight,50-80k
+Newfoundland and Labrador,Female,72,41073.0,23.1,2.3,No,Very Good,1,Normal,<50k
+Newfoundland and Labrador,Male,25,68890.0,21.0,3.5,Yes,Good,4,Normal,50-80k
+Saskatchewan,Female,74,86327.0,28.9,0.4,No,Very Good,5,Overweight,80-110k
+New Brunswick,Female,28,56191.0,28.1,3.9,No,Very Good,5,Overweight,50-80k
+Alberta,Female,37,90625.0,30.6,4.0,Yes,Excellent,4,Obese,80-110k
+Nova Scotia,Male,26,96168.0,29.9,6.9,No,Fair,4,Overweight,80-110k
+Nova Scotia,Male,43,80537.0,28.4,2.2,No,Good,9,Overweight,80-110k
+British Columbia,Male,65,16724.0,30.0,4.1,No,Fair,7,Obese,<50k
+British Columbia,Male,34,52438.0,27.0,4.1,No,Poor,4,Overweight,50-80k
+Ontario,Male,69,115724.0,29.3,3.0,No,Very Good,5,Overweight,>110k
+Quebec,Male,56,67069.0,23.6,5.0,No,Good,5,Normal,50-80k
+Saskatchewan,Female,57,38317.0,27.3,3.5,No,Very Good,4,Overweight,<50k
+Saskatchewan,Male,77,102705.0,30.5,4.2,No,Fair,4,Obese,80-110k
+Quebec,Female,45,78267.0,23.9,3.5,No,Excellent,7,Normal,50-80k
+Saskatchewan,Male,39,100099.0,27.5,2.8,No,Excellent,4,Overweight,80-110k
+Nova Scotia,Male,80,83539.0,24.1,0.8,No,Good,3,Normal,80-110k
+British Columbia,Male,53,87171.0,27.3,1.9,No,Excellent,5,Overweight,80-110k
+Alberta,Male,56,85260.0,21.6,2.3,No,Fair,5,Normal,80-110k
+Alberta,Female,36,91950.0,27.3,1.3,Yes,Very Good,1,Overweight,80-110k
+Manitoba,Male,31,123549.0,32.5,4.4,No,Excellent,5,Obese,>110k
+Alberta,Female,28,97420.0,29.9,5.9,No,Very Good,7,Overweight,80-110k
+New Brunswick,Male,32,46393.0,37.1,1.7,No,Very Good,6,Obese,<50k
+Alberta,Male,30,86933.0,26.3,4.1,No,Good,10,Overweight,80-110k
+Saskatchewan,Male,65,100830.0,42.4,1.4,No,Very Good,8,Obese,80-110k
+Alberta,Male,21,102054.0,26.1,2.9,Yes,Very Good,8,Overweight,80-110k
+Quebec,Female,57,69468.0,28.5,3.5,No,Fair,10,Overweight,50-80k
+Nova Scotia,Female,77,101299.0,27.3,4.7,No,Fair,7,Overweight,80-110k
+British Columbia,Male,66,96555.0,29.1,2.1,No,Very Good,6,Overweight,80-110k
+British Columbia,Male,43,129450.0,31.4,5.5,Yes,Very Good,5,Obese,>110k
+New Brunswick,Male,21,63000.0,26.6,3.0,No,Good,4,Overweight,50-80k
+Prince Edward Island,Female,70,67852.0,36.1,2.2,No,Excellent,5,Obese,50-80k
+Nova Scotia,Female,18,71878.0,27.3,1.0,No,Very Good,4,Overweight,50-80k
+Prince Edward Island,Female,60,68196.0,28.6,4.0,No,Good,6,Overweight,50-80k
+Newfoundland and Labrador,Female,60,60200.0,22.7,5.3,No,Good,4,Normal,50-80k
+Saskatchewan,Male,30,22746.0,16.0,4.0,No,Very Good,4,Underweight,<50k
+New Brunswick,Female,64,78130.0,26.5,8.0,No,Very Good,6,Overweight,50-80k
+Alberta,Male,29,85387.0,24.2,6.4,No,Good,5,Normal,80-110k
+Saskatchewan,Male,32,78130.0,23.3,2.9,No,Good,1,Normal,50-80k
+Manitoba,Female,69,116708.0,40.6,2.9,No,Very Good,2,Obese,>110k
+Prince Edward Island,Female,79,78268.0,25.9,4.4,No,Very Good,3,Overweight,50-80k
+Newfoundland and Labrador,Male,34,103821.0,19.9,1.8,No,Very Good,3,Normal,80-110k
+Saskatchewan,Female,76,83228.0,23.7,5.8,No,Poor,6,Normal,80-110k
+Nova Scotia,Male,75,94528.0,26.9,4.2,No,Very Good,6,Overweight,80-110k
+British Columbia,Female,66,83585.0,29.9,4.0,Yes,Good,7,Overweight,80-110k
+Newfoundland and Labrador,Male,26,105376.0,30.0,4.9,Yes,Poor,7,Obese,80-110k
+Manitoba,Female,36,79119.0,30.6,6.9,No,Very Good,7,Obese,50-80k
+Manitoba,Male,60,87922.0,24.0,3.8,No,Very Good,6,Normal,80-110k
+New Brunswick,Male,80,85327.0,28.9,3.3,No,Good,6,Overweight,80-110k
+Nova Scotia,Female,69,72234.0,22.8,6.5,Yes,Very Good,8,Normal,50-80k
+Ontario,Male,44,86100.0,24.1,3.5,No,Good,7,Normal,80-110k
+British Columbia,Female,32,122688.0,22.6,2.9,No,Fair,6,Normal,>110k
+Quebec,Female,78,72592.0,21.3,3.5,Yes,Good,8,Normal,50-80k
+New Brunswick,Female,35,86389.0,32.5,3.9,No,Good,1,Obese,80-110k
+Ontario,Female,39,103156.0,30.6,4.2,No,Very Good,5,Obese,80-110k
+British Columbia,Female,78,100805.0,32.1,0.8,Yes,Very Good,5,Obese,80-110k
+Manitoba,Female,53,78234.0,27.4,0.4,No,Very Good,8,Overweight,50-80k
+Nova Scotia,Male,34,30332.0,31.1,1.7,No,Fair,8,Obese,<50k
+Manitoba,Male,18,88334.0,18.4,1.6,No,Good,2,Underweight,80-110k
+Newfoundland and Labrador,Female,45,33611.0,31.5,2.2,No,Fair,8,Obese,<50k
+Prince Edward Island,Male,80,107399.0,28.1,4.8,No,Very Good,3,Overweight,80-110k
+Quebec,Male,45,81389.0,30.3,3.2,No,Fair,3,Obese,80-110k
+Prince Edward Island,Female,62,97993.0,29.1,3.9,Yes,Good,5,Overweight,80-110k
+Nova Scotia,Male,33,59958.0,22.3,1.1,No,Very Good,5,Normal,50-80k
+Nova Scotia,Female,66,180000.0,19.7,2.6,No,Very Good,2,Normal,>110k
+Ontario,Male,66,83215.0,23.6,4.7,No,Good,7,Normal,80-110k
+Nova Scotia,Male,56,77328.0,27.3,4.7,No,Good,7,Overweight,50-80k
+New Brunswick,Male,66,68169.0,27.3,2.1,Yes,Very Good,7,Overweight,50-80k
+Manitoba,Female,54,79693.0,20.4,3.8,No,Good,4,Normal,50-80k
+Ontario,Female,41,133349.0,22.3,7.9,No,Fair,5,Normal,>110k
+Manitoba,Female,64,94691.0,27.3,3.5,No,Excellent,5,Overweight,80-110k
+Prince Edward Island,Male,70,98990.0,25.4,2.1,No,Good,9,Overweight,80-110k
+New Brunswick,Female,70,94879.0,20.4,3.2,No,Good,1,Normal,80-110k
+Quebec,Male,31,107589.0,20.1,3.7,Yes,Fair,3,Normal,80-110k
+Prince Edward Island,Female,60,74199.0,23.1,3.2,Yes,Good,5,Normal,50-80k
+Prince Edward Island,Female,18,36905.0,27.6,3.4,No,Good,3,Overweight,<50k
+Quebec,Male,54,74228.0,21.3,0.6,No,Good,5,Normal,50-80k
+Newfoundland and Labrador,Male,53,94235.0,26.6,1.6,No,Good,5,Overweight,80-110k
+Saskatchewan,Female,40,58604.0,32.5,3.2,No,Good,4,Obese,50-80k
+Manitoba,Male,80,74473.0,20.7,3.2,No,Excellent,5,Normal,50-80k
+Saskatchewan,Female,73,64165.0,26.2,2.4,Yes,Excellent,5,Overweight,50-80k
+New Brunswick,Female,20,108041.0,27.3,3.5,No,Fair,5,Overweight,80-110k
+Prince Edward Island,Male,31,92989.0,25.1,3.6,No,Fair,4,Overweight,80-110k
+New Brunswick,Male,31,91031.0,24.3,5.3,No,Very Good,5,Normal,80-110k
+Prince Edward Island,Female,74,90432.0,27.3,3.3,No,Excellent,5,Overweight,80-110k
+Prince Edward Island,Female,50,77255.0,27.3,4.3,No,Excellent,2,Overweight,50-80k
+Ontario,Male,63,81951.0,32.7,3.5,No,Poor,6,Obese,80-110k
+British Columbia,Male,69,54296.0,29.3,4.6,Yes,Good,4,Overweight,50-80k
+New Brunswick,Male,66,34271.0,25.5,4.3,Yes,Poor,8,Overweight,<50k
+Manitoba,Female,23,81002.0,29.6,5.2,No,Very Good,6,Overweight,80-110k
+Ontario,Male,26,84480.0,28.8,4.9,No,Very Good,8,Overweight,80-110k
+Ontario,Female,42,102185.0,32.3,4.7,No,Good,3,Obese,80-110k
+Manitoba,Male,39,109427.0,24.5,3.3,No,Good,4,Normal,80-110k
+Nova Scotia,Female,65,109400.0,27.4,4.0,No,Good,3,Overweight,80-110k
+Quebec,Female,27,58040.0,26.9,5.6,No,Very Good,5,Overweight,50-80k
+Quebec,Male,41,70955.0,30.7,2.2,No,Poor,8,Obese,50-80k
+Quebec,Female,32,78130.0,27.3,2.2,No,Very Good,8,Overweight,50-80k
+Manitoba,Female,29,128638.0,32.3,3.9,No,Very Good,3,Obese,>110k
+Ontario,Female,28,107602.0,29.5,4.3,No,Very Good,4,Overweight,80-110k
+Manitoba,Male,30,100388.0,20.6,1.9,No,Good,5,Normal,80-110k
+Saskatchewan,Female,53,70244.0,33.2,3.4,No,Very Good,6,Obese,50-80k
+Saskatchewan,Female,43,60336.0,38.4,3.5,No,Very Good,2,Obese,50-80k
+Nova Scotia,Female,45,93778.0,32.2,0.0,No,Fair,2,Obese,80-110k
+Manitoba,Female,48,78130.0,34.3,3.1,No,Fair,6,Obese,50-80k
+New Brunswick,Female,64,73231.0,27.6,3.2,No,Very Good,1,Overweight,50-80k
+New Brunswick,Male,72,75704.0,18.9,3.2,Yes,Good,4,Normal,50-80k
+Prince Edward Island,Male,51,109858.0,18.0,6.3,No,Fair,6,Underweight,80-110k
+New Brunswick,Female,58,70906.0,28.5,1.1,No,Fair,6,Overweight,50-80k
+Manitoba,Female,64,29215.0,24.2,1.9,No,Fair,5,Normal,<50k
+Saskatchewan,Female,61,88089.0,22.6,0.0,No,Good,4,Normal,80-110k
+British Columbia,Female,26,78130.0,26.9,3.5,No,Very Good,7,Overweight,50-80k
+Manitoba,Female,79,78853.0,30.3,2.7,No,Fair,6,Obese,50-80k
+Quebec,Female,28,76266.0,19.9,3.5,No,Very Good,4,Normal,50-80k
+Prince Edward Island,Female,43,78130.0,25.0,5.7,Yes,Good,5,Overweight,50-80k
+Newfoundland and Labrador,Female,59,93807.0,34.7,5.2,Yes,Good,6,Obese,80-110k
+Quebec,Female,43,47343.0,21.8,3.7,No,Fair,9,Normal,<50k
+New Brunswick,Male,33,67660.0,31.5,2.8,Yes,Very Good,7,Obese,50-80k
+Quebec,Male,76,91681.0,24.8,5.6,No,Excellent,8,Normal,80-110k
+New Brunswick,Male,22,65718.0,29.9,3.5,No,Good,4,Overweight,50-80k
+Ontario,Male,33,45824.0,32.7,1.9,No,Poor,4,Obese,<50k
+Saskatchewan,Male,80,91371.0,30.9,0.1,No,Good,5,Obese,80-110k
+Nova Scotia,Male,63,100462.0,31.7,2.6,No,Fair,5,Obese,80-110k
+New Brunswick,Male,23,77100.0,21.4,5.0,No,Very Good,3,Normal,50-80k
+Saskatchewan,Male,65,38783.0,32.8,8.1,No,Fair,5,Obese,<50k
+Prince Edward Island,Male,79,92119.0,22.9,3.6,No,Excellent,7,Normal,80-110k
+New Brunswick,Female,24,44802.0,28.5,2.0,Yes,Very Good,5,Overweight,<50k
+British Columbia,Female,44,84176.0,28.5,1.1,No,Good,7,Overweight,80-110k
+Nova Scotia,Male,47,60251.0,29.6,4.6,No,Very Good,6,Overweight,50-80k
+New Brunswick,Male,26,54803.0,28.9,0.0,No,Poor,7,Overweight,50-80k
+Alberta,Female,30,69162.0,23.0,4.6,No,Very Good,5,Normal,50-80k
+New Brunswick,Male,28,74334.0,20.5,5.1,No,Fair,5,Normal,50-80k
+Newfoundland and Labrador,Male,29,78130.0,31.6,4.4,Yes,Very Good,5,Obese,50-80k
+Newfoundland and Labrador,Male,43,89774.0,28.1,3.5,Yes,Good,7,Overweight,80-110k
+New Brunswick,Female,47,69079.0,32.9,4.6,No,Poor,4,Obese,50-80k
+Nova Scotia,Male,32,97604.0,27.0,3.8,No,Very Good,1,Overweight,80-110k
+British Columbia,Female,36,83623.0,20.2,1.9,No,Poor,3,Normal,80-110k
+New Brunswick,Male,30,64049.0,32.0,7.2,No,Fair,5,Obese,50-80k
+Alberta,Female,68,60681.0,25.3,2.8,Yes,Very Good,5,Overweight,50-80k
+Manitoba,Female,31,45050.0,28.9,5.1,Yes,Good,9,Overweight,<50k
+Alberta,Male,75,83815.0,24.0,0.0,No,Excellent,6,Normal,80-110k
+Alberta,Female,51,70908.0,35.4,6.1,No,Very Good,5,Obese,50-80k
+Quebec,Female,68,30556.0,22.8,6.4,No,Very Good,5,Normal,<50k
+Prince Edward Island,Female,58,78130.0,25.5,3.6,No,Good,8,Overweight,50-80k
+Quebec,Female,34,78130.0,27.7,4.6,Yes,Fair,4,Overweight,50-80k
+Ontario,Female,55,109514.0,27.3,4.6,Yes,Excellent,5,Overweight,80-110k
+Prince Edward Island,Male,35,43944.0,28.9,3.5,Yes,Fair,3,Overweight,<50k
+Manitoba,Male,25,49173.0,35.3,4.6,No,Good,8,Obese,<50k
+Saskatchewan,Female,34,100199.0,24.7,1.9,Yes,Good,6,Normal,80-110k
+New Brunswick,Male,35,105135.0,29.2,2.3,Yes,Good,4,Overweight,80-110k
+Alberta,Male,26,63100.0,13.5,3.5,No,Very Good,5,Underweight,50-80k
+Quebec,Male,19,65358.0,27.0,5.4,No,Very Good,6,Overweight,50-80k
+New Brunswick,Male,77,90325.0,25.6,2.1,No,Very Good,5,Overweight,80-110k
+Quebec,Female,50,31458.0,23.1,2.0,No,Excellent,4,Normal,<50k
+Manitoba,Female,43,40776.0,32.6,2.2,No,Good,4,Obese,<50k
+Prince Edward Island,Female,76,72385.0,25.6,5.0,No,Good,6,Overweight,50-80k
+Prince Edward Island,Male,32,108998.0,26.3,1.5,No,Poor,4,Overweight,80-110k
+Alberta,Male,43,69285.0,25.3,4.2,No,Very Good,4,Overweight,50-80k
+New Brunswick,Female,71,80019.0,17.6,5.0,No,Good,2,Underweight,80-110k
+Nova Scotia,Female,57,100676.0,21.5,3.3,No,Good,5,Normal,80-110k
+Saskatchewan,Male,43,120138.0,32.0,5.5,No,Fair,5,Obese,>110k
+Quebec,Female,34,66463.0,16.7,2.9,No,Very Good,5,Underweight,50-80k
+Alberta,Male,20,77663.0,23.4,3.1,Yes,Very Good,6,Normal,50-80k
+Nova Scotia,Male,23,114441.0,25.2,1.5,No,Excellent,7,Overweight,>110k
+Prince Edward Island,Male,28,47556.0,35.9,5.5,No,Poor,7,Obese,<50k
+Ontario,Male,67,78130.0,31.0,2.0,Yes,Excellent,6,Obese,50-80k
+New Brunswick,Female,58,57634.0,24.4,4.2,No,Fair,5,Normal,50-80k
+Newfoundland and Labrador,Female,45,80049.0,33.7,3.4,No,Good,4,Obese,80-110k
+Prince Edward Island,Male,67,78130.0,27.3,1.4,Yes,Fair,3,Overweight,50-80k
+Saskatchewan,Male,28,58840.0,32.2,2.3,Yes,Good,4,Obese,50-80k
+Quebec,Female,31,58338.0,20.4,6.3,No,Good,5,Normal,50-80k
+British Columbia,Female,42,83528.0,32.6,3.9,No,Fair,4,Obese,80-110k
+Newfoundland and Labrador,Male,75,97911.0,25.2,1.5,No,Good,5,Overweight,80-110k
+Newfoundland and Labrador,Male,56,75405.0,22.1,4.1,Yes,Very Good,3,Normal,50-80k
+Nova Scotia,Male,71,79402.0,26.1,3.2,No,Very Good,2,Overweight,50-80k
+Quebec,Female,33,89423.0,28.6,10.4,No,Very Good,7,Overweight,80-110k
+Quebec,Female,71,58568.0,24.7,4.1,No,Very Good,4,Normal,50-80k
+Saskatchewan,Female,22,92794.0,30.0,2.7,No,Fair,3,Obese,80-110k
+Manitoba,Female,32,94387.0,24.3,6.3,No,Very Good,3,Normal,80-110k
+Ontario,Female,50,130073.0,30.3,0.0,No,Poor,6,Obese,>110k
+Nova Scotia,Male,21,70478.0,29.4,3.7,No,Good,8,Overweight,50-80k
+Manitoba,Female,72,68838.0,26.9,7.5,No,Poor,4,Overweight,50-80k
+Ontario,Female,72,93379.0,25.0,3.3,No,Very Good,5,Overweight,80-110k
+Ontario,Male,52,94382.0,28.0,0.0,Yes,Good,7,Overweight,80-110k
+Saskatchewan,Female,37,67298.0,30.0,2.7,No,Very Good,1,Obese,50-80k
+New Brunswick,Male,24,69937.0,37.5,6.4,No,Good,5,Obese,50-80k
+Newfoundland and Labrador,Male,56,88823.0,31.9,4.3,No,Good,10,Obese,80-110k
+Saskatchewan,Male,51,61448.0,32.1,1.8,Yes,Good,1,Obese,50-80k
+British Columbia,Male,65,69789.0,42.6,2.1,No,Poor,5,Obese,50-80k
+Prince Edward Island,Male,55,79792.0,29.8,2.4,Yes,Good,4,Overweight,50-80k
+Saskatchewan,Male,26,97919.0,29.6,4.2,No,Very Good,5,Overweight,80-110k
+Alberta,Male,25,65908.0,30.7,6.2,Yes,Good,4,Obese,50-80k
+Saskatchewan,Male,67,78130.0,22.2,5.6,No,Poor,7,Normal,50-80k
+Ontario,Male,28,39668.0,25.0,4.4,No,Very Good,5,Overweight,<50k
+Alberta,Female,77,52812.0,24.7,0.8,Yes,Good,3,Normal,50-80k
+Manitoba,Female,24,51737.0,30.4,0.8,Yes,Poor,5,Obese,50-80k
+Prince Edward Island,Female,63,74908.0,26.3,4.6,No,Fair,6,Overweight,50-80k
+New Brunswick,Male,79,54222.0,27.9,0.8,No,Good,3,Overweight,50-80k
+New Brunswick,Male,45,63945.0,32.6,3.0,Yes,Good,2,Obese,50-80k
+Manitoba,Male,21,62518.0,31.5,4.1,Yes,Very Good,9,Obese,50-80k
+Quebec,Male,73,69190.0,26.4,1.2,Yes,Fair,4,Overweight,50-80k
+Alberta,Male,29,104450.0,23.9,1.5,No,Very Good,5,Normal,80-110k
+Prince Edward Island,Male,51,91239.0,32.9,3.3,No,Good,4,Obese,80-110k
+Ontario,Male,80,78323.0,31.1,4.5,Yes,Very Good,6,Obese,50-80k
+Newfoundland and Labrador,Male,64,68779.0,19.2,5.6,No,Very Good,9,Normal,50-80k
+Nova Scotia,Female,20,69335.0,25.6,4.7,No,Good,6,Overweight,50-80k
+British Columbia,Male,69,84555.0,28.0,3.6,No,Poor,2,Overweight,80-110k
+New Brunswick,Male,28,89683.0,31.1,2.0,No,Good,2,Obese,80-110k
+Newfoundland and Labrador,Male,65,59848.0,31.8,1.4,No,Excellent,4,Obese,50-80k
+Ontario,Female,57,78730.0,28.6,2.5,No,Excellent,5,Overweight,50-80k
+Quebec,Female,36,37368.0,30.1,4.3,Yes,Fair,2,Obese,<50k
+Nova Scotia,Male,44,82234.0,27.5,4.2,No,Very Good,7,Overweight,80-110k
+Prince Edward Island,Female,25,78130.0,23.8,0.0,No,Good,5,Normal,50-80k
+Ontario,Female,80,72399.0,25.9,1.9,No,Fair,5,Overweight,50-80k
+Nova Scotia,Male,33,114331.0,27.3,5.9,No,Very Good,9,Overweight,>110k
+Quebec,Male,37,60375.0,27.0,3.7,No,Good,5,Overweight,50-80k
+Nova Scotia,Male,49,82349.0,17.8,0.7,Yes,Good,6,Underweight,80-110k
+Nova Scotia,Female,60,77284.0,25.2,8.2,No,Very Good,3,Overweight,50-80k
+Ontario,Male,49,75994.0,27.3,3.4,No,Good,7,Overweight,50-80k
+Nova Scotia,Male,49,75714.0,25.8,4.3,No,Very Good,4,Overweight,50-80k
+Newfoundland and Labrador,Male,54,80142.0,26.0,4.3,No,Good,3,Overweight,80-110k
+Newfoundland and Labrador,Male,72,94959.0,29.6,2.8,Yes,Poor,5,Overweight,80-110k
+Ontario,Male,42,78130.0,21.8,2.0,Yes,Good,4,Normal,50-80k
+British Columbia,Male,70,77955.0,19.1,7.7,No,Excellent,5,Normal,50-80k
+British Columbia,Female,67,94306.0,25.5,5.5,No,Good,7,Overweight,80-110k
+Saskatchewan,Female,78,63965.0,31.0,5.1,No,Fair,4,Obese,50-80k
+Quebec,Male,75,93319.0,35.6,4.7,No,Very Good,9,Obese,80-110k
+Newfoundland and Labrador,Female,68,62760.0,27.3,1.5,No,Excellent,2,Overweight,50-80k
+New Brunswick,Male,33,99813.0,19.9,6.1,Yes,Excellent,9,Normal,80-110k
+Newfoundland and Labrador,Female,66,122213.0,26.0,1.8,No,Very Good,3,Overweight,>110k
+Quebec,Female,64,75558.0,28.5,4.1,Yes,Good,5,Overweight,50-80k
+Ontario,Female,36,34149.0,28.1,0.2,No,Very Good,4,Overweight,<50k
+Prince Edward Island,Male,60,67039.0,29.9,0.0,No,Very Good,4,Overweight,50-80k
+British Columbia,Female,33,102638.0,22.6,4.1,No,Excellent,7,Normal,80-110k
+Nova Scotia,Male,50,89062.0,27.5,1.9,No,Very Good,8,Overweight,80-110k
+Prince Edward Island,Female,68,82978.0,29.3,0.0,No,Good,8,Overweight,80-110k
+Ontario,Female,29,98173.0,31.3,4.6,Yes,Fair,4,Obese,80-110k
+Ontario,Female,39,87689.0,23.2,7.7,No,Good,6,Normal,80-110k
+Ontario,Female,68,102355.0,25.5,6.3,No,Fair,4,Overweight,80-110k
+Quebec,Female,46,78130.0,13.7,3.0,Yes,Poor,3,Underweight,50-80k
+Ontario,Female,78,108434.0,24.1,3.5,Yes,Good,3,Normal,80-110k
+Newfoundland and Labrador,Male,18,85176.0,24.6,5.3,No,Very Good,4,Normal,80-110k
+Nova Scotia,Male,63,96105.0,27.3,5.7,No,Excellent,6,Overweight,80-110k

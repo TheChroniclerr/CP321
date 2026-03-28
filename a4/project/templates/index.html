@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>COVID-19 Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+    <h1>COVID-19 Interactive Dashboard</h1>
+
+    <div id="controls">
+        <label>Country: 
+            <select id="country-select">
+                {% for c in countries %}
+                <option value="{{ c }}">{{ c }}</option>
+                {% endfor %}
+            </select>
+        </label>
+
+        <label>Metric: 
+            <select id="metric-select">
+                <option value="new_cases">New Cases</option>
+                <option value="new_deaths">New Deaths</option>
+                <option value="new_vaccinations">New Vaccinations</option>
+            </select>
+        </label>
+    </div>
+
+    <div id="plotly-div"></div>
+
+    <h3>Insights</h3>
+    
+    <p id="insights">
+        The chart above shows the number of individuals who tested positive for COVID-19, died from it, and received vaccinations between 2020 and 2025 across different countries.
+    </p>
+
+    <p>
+        Missing values in the dataset were handled using zero-filling and then smoothed with a 3-month rolling mean.
+    </p>
+
+    <p>
+        Overall, there is a noticeable spike in new cases around 2023 and 2024, followed by a gradual decline into 2025, with India being a notable exception. Vaccination rates generally increase up to 2024 before declining, while new deaths do not display a clear overall trend. Note peaks and declines reflect real-world pandemic events, but correlation should not be interpreted as causation.
+    </p>
+</body>
+</html>
